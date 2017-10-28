@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>avnhomepage</title>
+<title>avnhomepage - ParanMRR</title>
 <style>
 body{
 background-color: #f9f8f7;
@@ -53,7 +53,7 @@ color:white;
 <a href="" style="color: white;font-size: 20px;position: absolute;left:54px;">Configure</a><br>
 </section>
 <section class="wlp-login-message-content" style="left: 640px;top: 210px;">
-<b><p style="text-align: center;font-size: 25px;">REPAIRMRR</p></b>
+<b><p style="text-align: center;font-size: 25px;">REPAIR</p></b>
 <a href="avncreatepage.jsp" style="color: white;font-size: 20px;position: absolute;left:71px;">Create</a><br>
 <a href="${pageContext.request.contextPath}/viewticket.do" style="color: white;font-size: 20px;position: absolute;left:75px;">View</a><br>
 </section> 
